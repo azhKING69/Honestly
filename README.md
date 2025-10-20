@@ -33,11 +33,4 @@ The Anonymous Feedback App is a robust platform designed to facilitate anonymous
 1. Receive anonymous feedback and messages through your shared link.
 2. Use the feedback to engage, improve, and grow personally or professionally.
 
-## Links
-- **Live App:** [Anonymous Feedback App](https://anonymous-feedback-app-devsoni-projects.vercel.app/)
-- **GitHub Repository:** [GitHub Link](https://github.com/dev-soni-07/Anonymous-Feedback-App/)
 
-Feel free to send me anonymous feedback and messages through my profile: [Send Feedback to Dev Soni](https://anonymous-feedback-app-devsoni-projects.vercel.app/user/devsoni)
-
-## Contact
-For any inquiries or feedback, please contact me at devsoni071103@gmail.com or [LinkedIn](https://www.linkedin.com/in/dev-soni-sde/)
